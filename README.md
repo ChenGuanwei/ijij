@@ -1,8 +1,6 @@
-# Colorful-Timer:training&Timing
+# TimePlan - exercise helper
 if you have any question, please contact me with no hesitate
 
-Email:fdeping@sina.com
-
-TEL：+8613550307501
+Email:fpl197@yeah.net
 
 Add: 39 of chebeinan, yangjiang GuangDong, China
