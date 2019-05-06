@@ -1,4 +1,4 @@
-# TimePlan - exercise helper
+# SuccessWay
 if you have any question, please contact me with no hesitate
 
 Email:fpl197@yeah.net
