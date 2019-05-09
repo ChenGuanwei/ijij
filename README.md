@@ -1,4 +1,4 @@
-# Bill List - Tracker & Manager
+# TrainingTimer
 if you have any question, please contact me with no hesitate
 
 Email:fpl197@yeah.net
